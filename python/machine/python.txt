@@ -1,0 +1,23 @@
+1.Data Analysis with Open Source Tools
+2.Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 1st Edition
+3.Intro to pandas data structures
+	http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+4.examples 100 numpy exercises
+http://www.labri.fr/perso/nrougier/teaching/numpy.100/
+https://github.com/rougier/numpy-100
+5.examples http://pandas.pydata.org/pandas-docs/stable/10min.html
+6.examples https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb
+7.book Web Scraping with Python (Community Experience Distilled) 1st Edition,  Kindle Edition 
+8.book Web Scraping with Python: Collecting Data from the Modern Web 1st Edition 
+9.book Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit 1st Edition 
+10.book Programming Computer Vision with Python: Tools and algorithms for analyzing images 1st Edition 
+11.https://www.pyimagesearch.com/practical-python-opencv/
+12.Mini-Tutorial: Saving Tweets to a Database with ython
+https://geduldig.github.io/tutorials/twitter-couchdb/
+13.Web Scraping Indeed for Key Data Science Job Skills
+https://jessesw.com/Data-Science-Skills/
+14.Tutorial: Simple Text Classification with Python and TextBlob
+https://stevenloria.com/simple-text-classification/
+15.Develop Your First Neural Network in Python With Keras Step-By-Step
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+16.http://python.jobbole.com/84326/
